@@ -157,7 +157,7 @@ hr{
 
 #menu {
     padding: 100px 180px;
-    background-image: url(/back.jpg);
+    background-image: url(back.jpg);
     background-repeat: repeat;
     background-attachment: fixed;
     background-size:cover;
@@ -191,7 +191,7 @@ hr{
 
 /* Footer Section */
 #footer{
-    background-image: url(/footer-img.jpg);
+    background-image: url(footer-img.jpg);
     
 }
 .icon-footer {
